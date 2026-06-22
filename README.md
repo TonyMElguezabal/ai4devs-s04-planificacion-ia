@@ -1,5 +1,4 @@
 # Ejercicio pre-sesión · Sesión 4 — Planificación efectiva con IA
----
 
 ## Objetivo
 
