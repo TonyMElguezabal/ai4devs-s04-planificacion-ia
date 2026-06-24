@@ -8,7 +8,7 @@ Llegar a la sesión con un backlog inicial de FlowSync ya generado: convertir el
 ## Prerrequisitos
 
 - [ ] Haber consumido el material asíncrono de la S4, en especial la página 2 (anatomía de un backlog AI-ready) y el patrón "AI as poke-holes".
-- [ ] Tener **[`docs/PRD.md`](docs/PRD.md)** de FlowSync accesible (lo recibes en el canal del programa, y está incluido en este repo). Sin el PRD no puedes empezar; es prerrequisito.
+- [ ] Tener **[`docs/PRD.md`](docs/PRD.md)** de FlowSync accesible. Sin el PRD no puedes empezar; es prerrequisito.
 - [ ] Tener acceso a un **copiloto de IA** de tu elección (Claude Code recomendado, es lo que usaremos en la demo; Cursor, Claude.ai web, ChatGPT o Gemini también sirven — el ejercicio es agnóstico al modelo).
 
 ---
